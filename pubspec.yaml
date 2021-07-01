@@ -1,7 +1,7 @@
 name: time_picker_plus
 description: Time Picker Plus
-version: 0.1.0
-homepage: https://github.com/
+version: 0.1.1
+homepage: https://github.com/Madek1/time_picker_plus
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
